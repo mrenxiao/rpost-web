@@ -1,7 +1,7 @@
 {
   "main.css": "/rpost-web/static/css/main.ac2d619f.chunk.css",
-  "main.js": "/rpost-web/static/js/main.8b1b6a02.chunk.js",
-  "main.js.map": "/rpost-web/static/js/main.8b1b6a02.chunk.js.map",
+  "main.js": "/rpost-web/static/js/main.b5e77c88.chunk.js",
+  "main.js.map": "/rpost-web/static/js/main.b5e77c88.chunk.js.map",
   "static/js/1.cccde898.chunk.js": "/rpost-web/static/js/1.cccde898.chunk.js",
   "static/js/1.cccde898.chunk.js.map": "/rpost-web/static/js/1.cccde898.chunk.js.map",
   "runtime~main.js": "/rpost-web/static/js/runtime~main.3f81c327.js",
@@ -9,6 +9,6 @@
   "static/media/home_image.png": "/rpost-web/static/media/home_image.1e9960ac.png",
   "static/css/main.ac2d619f.chunk.css.map": "/rpost-web/static/css/main.ac2d619f.chunk.css.map",
   "index.html": "/rpost-web/index.html",
-  "precache-manifest.e2f865a9ce33addaad8ccff4e4b1db12.js": "/rpost-web/precache-manifest.e2f865a9ce33addaad8ccff4e4b1db12.js",
+  "precache-manifest.da993c712ad757d552d7a81b1fec12f3.js": "/rpost-web/precache-manifest.da993c712ad757d552d7a81b1fec12f3.js",
   "service-worker.js": "/rpost-web/service-worker.js"
 }
