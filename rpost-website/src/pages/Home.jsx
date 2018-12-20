@@ -11,7 +11,7 @@ class Home extends Component {
         return (
             <div>
                 <Navbar />
-                <Jumbotron title="" subtitle="The newest reposting experience"/>
+                <Jumbotron title="" subtitle="Reposting experience reimagined"/>
                 {/* <Player /> */}
 
                 <div className="box flex">
