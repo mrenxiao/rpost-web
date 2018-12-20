@@ -9,7 +9,7 @@ class Navbar extends Component {
       <nav className="navbar navbar-expand-md navbar-light">
 
         <div className="container">
-          <Link className="navbar-brand" to="/">RPOST</Link>
+          <Link className="navbar-brand" to="/rpost-web">RPOST</Link>
           <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
             <span className="navbar-toggler-icon"></span>
           </button>
