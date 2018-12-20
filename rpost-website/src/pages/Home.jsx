@@ -14,7 +14,7 @@ class Home extends Component {
                 <Jumbotron title="" subtitle="The newest reposting experience"/>
                 {/* <Player /> */}
 
-                <div class="box flex">
+                <div className="box flex">
                     <Image className="test" src={homeImage} width="400" height="500" />
                 </div>
 
