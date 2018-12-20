@@ -12,9 +12,9 @@ class App extends Component {
     return (
       <Router>
         <div>
-          <Route exact path="/" component={Home} />
-          <Route exact path="/about" component={About} />
-          <Route exact path="/privacy-policy" component={PrivacyPolicy} />
+          <Route exact path="/rpost-web" component={Home} />
+          <Route exact path="/rpost-web/about" component={About} />
+          <Route exact path="/rpost-web/privacy-policy" component={PrivacyPolicy} />
         </div>
       </Router>
     );
