@@ -1,15 +1,14 @@
 {
-  "main.css": "/rpost-web/static/css/main.5bf20208.chunk.css",
-  "main.js": "/rpost-web/static/js/main.428f7dbb.chunk.js",
-  "main.js.map": "/rpost-web/static/js/main.428f7dbb.chunk.js.map",
-  "static/js/1.512de758.chunk.js": "/rpost-web/static/js/1.512de758.chunk.js",
-  "static/js/1.512de758.chunk.js.map": "/rpost-web/static/js/1.512de758.chunk.js.map",
+  "main.css": "/rpost-web/static/css/main.ac2d619f.chunk.css",
+  "main.js": "/rpost-web/static/js/main.8b1b6a02.chunk.js",
+  "main.js.map": "/rpost-web/static/js/main.8b1b6a02.chunk.js.map",
+  "static/js/1.cccde898.chunk.js": "/rpost-web/static/js/1.cccde898.chunk.js",
+  "static/js/1.cccde898.chunk.js.map": "/rpost-web/static/js/1.cccde898.chunk.js.map",
   "runtime~main.js": "/rpost-web/static/js/runtime~main.3f81c327.js",
   "runtime~main.js.map": "/rpost-web/static/js/runtime~main.3f81c327.js.map",
   "static/media/home_image.png": "/rpost-web/static/media/home_image.1e9960ac.png",
-  "static/media/logo.svg": "/rpost-web/static/media/logo.5d5d9eef.svg",
-  "static/css/main.5bf20208.chunk.css.map": "/rpost-web/static/css/main.5bf20208.chunk.css.map",
+  "static/css/main.ac2d619f.chunk.css.map": "/rpost-web/static/css/main.ac2d619f.chunk.css.map",
   "index.html": "/rpost-web/index.html",
-  "precache-manifest.957bc4178b6f465a1ad23b9f1c5ac65c.js": "/rpost-web/precache-manifest.957bc4178b6f465a1ad23b9f1c5ac65c.js",
+  "precache-manifest.e2f865a9ce33addaad8ccff4e4b1db12.js": "/rpost-web/precache-manifest.e2f865a9ce33addaad8ccff4e4b1db12.js",
   "service-worker.js": "/rpost-web/service-worker.js"
 }
