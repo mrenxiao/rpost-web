@@ -11,9 +11,9 @@ class About extends Component {
                 <Jumbotron title="About" subtitle=""/>
                 <div className="container">
                 Instagram users are all around the world nowadays.
-                Most of them share their own daily pictures or videos, whereas the rest repost content from other people's accounts.
-                You can find a bunch of Repost apps on App store / Google Play, but they are neither user friendly nor able to offer the best user experience.
-                That's why we have created RPOST, the most simple, elegant and modern repost app ever.
+                Most of them share their own daily pictures or videos, whereas some users repost content from other people's accounts.
+                You can find a bunch of Repost apps on App store / Google Play, but they are neither user friendly nor able to offer a good user experience.
+                That's why we have created RPOST, a minimalist, elegant and modern repost app.
                 
                 </div>
                 <Footer />

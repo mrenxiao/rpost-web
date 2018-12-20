@@ -6,6 +6,7 @@
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.6.3",
+    "react-bootstrap": "^0.32.4",
     "react-dom": "^16.6.3",
     "react-markdown": "^4.0.4",
     "react-player": "^1.7.1",
