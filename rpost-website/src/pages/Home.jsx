@@ -15,7 +15,7 @@ class Home extends Component {
                 {/* <Player /> */}
 
                 <div class="box flex">
-                    <Image className="test" src={homeImage} width="540" height="675" />
+                    <Image className="test" src={homeImage} width="400" height="500" />
                 </div>
 
                 <Footer />
